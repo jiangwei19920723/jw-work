@@ -11,7 +11,7 @@ package cn.jcloud.sso.bean;
 public class FileResultBean {
 	private String errorCode;//错误代码
 	private String errorMessage;//错误内容
-	private String fileName;//文件名称1
+	private String fileName;//文件名称
 	private String fileContent;//文件内容
 	private String fileList;//文件列表信息
 	private String fileListCount;//文件数
